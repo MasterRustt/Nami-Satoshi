@@ -1,0 +1,10 @@
+{
+  "name": "Nami Satoshi",
+  "symbol": "NAMI",
+  "image": "https://raw.githubusercontent.com/MasterRustt/Nami-Satoshi/refs/heads/main/Nami.PNG",
+  "description": "Nami is a new meme project on solana block chain",
+  "creator": {
+    "name": "MasterRustt",
+    "twitter": "https://x.com/namisatosh"
+  }
+}
